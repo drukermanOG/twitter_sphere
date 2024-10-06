@@ -11,4 +11,5 @@ More instructions and tutorials on how to use the prediction models will follow.
 
 Please feel free to write to: ogen.drukerman@gmail.com for any questions and clarifications.
 
+Access (link can be shared for easy access):
 https://drive.google.com/drive/folders/16LzZ_Upw0r9Sg00nCO0gnBPgzUU-SWBH?usp=sharing
