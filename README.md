@@ -3,9 +3,9 @@ The X Types--Mapping the Semantics of the Twitter Sphere
 
 On the below mentioned URL you can find:
 
-1. The full dataset listing all the popular Twitter accounts and the corresponding knowledge base entires.
+1. The full dataset listing all the popular Twitter accounts and the corresponding knowledge base entries.
 2. Model weights of the fine-tuned BERT used to produce the text embeddings.
-3. Model weights of the neural network added on top of fine-tuned BERT, aimed at classifiying an entities' semantic type based on textual and network evidence.
+3. Model weights of the neural network added on top of fine-tuned BERT, aimed at classifying an entities' semantic type based on textual and network evidence.
 
 More instructions and tutorials on how to use the prediction models will follow.
 
