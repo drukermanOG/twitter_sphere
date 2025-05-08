@@ -1,6 +1,6 @@
 # The X Types - Mapping the Semantics of the Twitter Sphere
 
-On the below mentioned URL you can find:
+On the below URL you can find:
 
 1. The full *dataset listing all the popular Twitter accounts and the corresponding knowledge base entries.
 2. Model weights of the fine-tuned BERT used to produce the text embeddings.
@@ -9,7 +9,11 @@ On the below mentioned URL you can find:
 * Please note the dataset is not fully proccessed and cleaned (further filtering was done based on undisclosed information).
 The current version is an initial product of alignment to knowledge bases, aimed at providing public information.
 
-More instructions and tutorials on how to use the prediction models will follow.
+In this repository you can also find python file responsible for:
+1. Integrating non-related features spaces in neural networks designed for multi-class classification (torch).
+When used in our work to combine text and network user embeddings, it significantly enhanced the prediction quality.
+
+2. Fine-tunning and predicting using BERT.
 
 Please feel free to write to: ogen.drukerman@gmail.com for any questions and clarifications.
 
