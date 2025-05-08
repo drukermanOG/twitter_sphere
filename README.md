@@ -1,4 +1,4 @@
-# twitter_sphere
+# The X Types - Mapping the Semantics of the Twitter Sphere
 The X Types--Mapping the Semantics of the Twitter Sphere
 
 On the below mentioned URL you can find:
