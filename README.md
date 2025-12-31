@@ -6,7 +6,7 @@ On the below URL you can find:
 2. Model weights of the fine-tuned BERT used to produce the text embeddings.
 3. Model weights of the neural network added on top of fine-tuned BERT, aimed at classifying an entities' semantic type based on textual and network evidence.
 4. A full mapping of DBpedia ontology in an excel file.
-5. A subset of the full dataset (1.) listing only the entities for which all popularity metrics are available (followers, pre-training corpus mentions and page-views. 
+5. A subset of the full dataset (1.) listing only the entities for which all popularity metrics are available (followers, pre-training corpus mentions and page-views). 
 
 * Please note the dataset is not fully proccessed and cleaned (further filtering was done based on undisclosed information).
 The current version is an initial product of alignment to knowledge bases, aimed at providing public information.
